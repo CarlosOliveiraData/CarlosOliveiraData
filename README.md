@@ -1,79 +1,39 @@
-# 👋 Sobre mim
+# Olá, eu sou o Carlos Oliveira! 👋
 
-**Analista de Dados** <br>
-**Desenvolvedor de Software**
+### Analista de Dados 
 
-Olá! Me chamo Carlos, sou natural de Juiz de Fora (MG). Atualmente moro em São Paulo (SP), onde busco crescer tanto no lado pessoal quanto profissional.
+Focado em transformar dados em inteligência de negócio através de **Data Viz**, **Automação** e **SQL**. Atualmente, utilizo **Python** para resolver problemas complexos e automatizar processos, além de criar narrativas visuais que facilitam a tomada de decisão.
 
-💻 Estou fazendo Sistemas de Informação e possuo 3 anos e meio de experiência como técnico em informática, atuando com suporte, manutenção e soluções de TI.
+- 🎓 8º Semestre de Sistemas de Informação (USJT).
+- 🎥 Criador de conteúdo no YouTube focado.
+- 🛠️ Experiência com metodologias ágeis.
 
-🚀 Sigo estudando todos os dias, focado em aprender, evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eucarlosalberto/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
+## 🚀 Competências Técnicas
 
-...
+- **Data Viz:** Criação de dashboards interativos e análise visual de dados.
+- **Automação & Python:** Desenvolvimento de scripts para limpeza, tratamento e automação de tarefas (Pandas/NumPy).
+- **SQL:** Extração e manipulação de grandes bases de dados.
+- **Estatística:** Aplicação de conceitos estatísticos para análise de tendências.
 
-## 🤖 Linguagens e Tecnologias
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
-<img
-  align="left"
-  alt="JS"
-  title="JS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-  align="left"
-  alt="PY"
-  title="PY"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-/>
-<img
-  align="left"
-  alt="JAVA"
-  title="JAVA"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-  align="left"
-  alt="FLUTTER"
-  title="FLUTTER"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-/>
-<img
-  align="left"
-  alt="PHP"
-  title="PHP"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-          
+---
+
+## 📊 Projetos em Destaque
+
+### ⚽ [Mapeando o Messi](https://github.com/CarlosOliveiraData/MapeandoOMessi)
+Data Storytelling focado em performance esportiva.
+
+### 📺 [Dashboard Netflix](https://github.com/CarlosOliveiraData/dashboard-netflix)
+Análise de catálogo e tendências de streaming usando Python.
+
+### 🛒 [Varejo Online](https://github.com/CarlosOliveiraData/analise-de-vendas-varejo-online)
+Tratamento de dados de e-commerce e geração de insights de vendas.
+
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eucarlosalberto/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuHusQcRnNwp1F_bpEqhQDQ)
