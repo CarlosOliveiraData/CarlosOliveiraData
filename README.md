@@ -29,15 +29,15 @@ Focado em transformar dados em inteligência de negócio através de **Data Viz,
 
 ### 📊 Projetos em Destaque
 
-* ⚽ **[Mapeando o Messi](cole_aqui_o_link_do_repositorio)**
+* ⚽ **[Mapeando o Messi](https://github.com/CarlosOliveiraData/MapeandoOMessi)**
   * *Data Storytelling focado em performance esportiva.*
   * **Tech:** Python, Pandas, Matplotlib
 
-* 📺 **[Dashboard Netflix](cole_aqui_o_link_do_repositorio)**
+* 📺 **[Dashboard Netflix](https://github.com/CarlosOliveiraData/analise-de-vendas-varejo-online)**
   * *Análise de catálogo e tendências de streaming usando Python.*
   * **Tech:** Python, Plotly, Pandas
 
-* 🛒 **[Varejo Online](cole_aqui_o_link_do_repositorio)**
+* 🛒 **[Varejo Online](https://github.com/CarlosOliveiraData/dashboard-netflix)**
   * *Tratamento de dados de e-commerce e geração de insights de vendas.*
   * **Tech:** SQL, Python
 
